@@ -1,6 +1,6 @@
 ### Proyecto Personal
 
-### **LogisCode**
+### **healthCareSolutions**
 ##### **mi nombre : sebastian daza**
 
 ##### Linkedin : [Linkedin](https://www.linkedin.com/in/sebastian-daza-nieto-98b306303/ "Linkedin")
